@@ -17,6 +17,6 @@
 
 
 
-> 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/W-Carlos/ConvertMoney/blob/master/LICENSE) para mais detalhes.
+>  ## 📝 Licença
+<p>Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/W-Carlos/ConvertMoney/blob/master/LICENSE) para mais detalhes.</p>
 
